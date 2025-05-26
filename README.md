@@ -15,9 +15,10 @@ Whether you're actively applying or just getting started, this template ensures 
 •📅 Follow-Up Reminder — Status option to mark when you’ve sent a follow-up email. </br>
 •💡 Flexible Enough to Reuse — Re-application with updated resumes or withdrawn interest can also be tracked. </br>
 
-## 🧩 Tracker Columns <pre>
-•Company Name	          •Role	                    •Application Status	      •Salary	 <br>
-•Date Submitted	        •Link to Job Req	        •Rejection Reason	        •Notes </pre>  <br>
+## 🧩 Tracker Columns <br> 
+<pre> 
+•Company Name	       •Role	                •Application Status	        •Salary	 
+•Date Submitted        •Link to Job Req	        •Rejection Reason	        •Notes <br> </pre>  
 
 ## 📁 How to Use ? <br>
 1. Open the [Google Sheet Template](https://docs.google.com/spreadsheets/d/17OvtcQwbz56MatY38oB5phT6zRGzGY7H2-b3jtqWk0g/edit?usp=sharing). <br>
