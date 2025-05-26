@@ -15,7 +15,7 @@ Whether you're actively applying or just getting started, this template ensures 
 •📅 Follow-Up Reminder — Status option to mark when you’ve sent a follow-up email. </br>
 •💡 Flexible Enough to Reuse — Re-application with updated resumes or withdrawn interest can also be tracked. </br>
 
-## 🧩 Tracker Columns </br> <pre>
+## 🧩 Tracker Columns <pre>
 •Company Name	          •Role	                    •Application Status	      •Salary	 <br>
 •Date Submitted	        •Link to Job Req	        •Rejection Reason	        •Notes </pre>  <br>
 
